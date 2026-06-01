@@ -45,7 +45,7 @@ header{
     transition: color 0.3s ease;
 }
 
-.nav-links li a :hover{
+.nav-links li a:hover{
     color: #ffd700;
 }
 
@@ -74,9 +74,9 @@ ul{
     border-radius: 8px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     border-left: 5px solid #ffd700;
-    transition: transform 0.3x ease;
+    transition: transform 0.3s ease;
 }
-.card :hover{
+.card:hover{
     transform: scale(1.03);
 }
 
